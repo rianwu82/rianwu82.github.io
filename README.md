@@ -67,7 +67,7 @@
 
     <div class="card">
       <h2>Contact</h2>
-      <p>LinkedIn: <a href="#">Add your link</a></p>
+      <p>LinkedIn: <a href="#">(https://www.linkedin.com/in/rian-wu/)</a></p>
       <p>Google Scholar: <a href="#">Add your link</a></p>
     </div>
   </div>
